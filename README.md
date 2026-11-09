@@ -10,14 +10,12 @@
 
 ## DATASET LINK
 https://www.kaggle.com/datasets/atifmasih/climate-change-dataset2020-2024/versions/1?hl=en-IN
-# Swings in Temperature
 
-A mini project exploring temperature patterns and climate change data.
 
 ## Project Structure
 
 ```text
-Swings-in-Temperature/
+Swings_in_Tempertaure
 ├── climate_change_dataset.csv
 ├── AI_Mini_Project.ipynb
 └── README.md
