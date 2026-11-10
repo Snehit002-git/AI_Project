@@ -58,4 +58,4 @@ Swings_in_Tempertaure
 
 ## Expected Output
 
-![alt text](<Screenshot 2026-11-10 131432.png>)
+![Project Output](./Project-Output.png)
