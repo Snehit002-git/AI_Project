@@ -26,7 +26,8 @@ https://www.kaggle.com/datasets/atifmasih/climate-change-dataset2020-2024/versio
 Swings_in_Tempertaure
 ├── climate_change_dataset.csv    
 ├── AI_Mini_Project.ipynb            # Code   
-├──Requirements.txt                  # All libraries that are used
+├── Requirements.txt                 # All libraries that are used
+├── Project-Output.png               # Screeenshot of OUTPUT
 └── README.md
 
 
