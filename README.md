@@ -30,7 +30,7 @@ Swings_in_Tempertaure
 └── README.md
 
 
-Setup
+## Setup
 1. Install Python 3.10 or newer.
 2. Place AI_Mini_Project.ipynb and climate_change_dataset.csv in the same folder. The notebook expects the dataset to have the exact filename climate_change_dataset.csv.
 3. Open a terminal in that folder and create a virtual environment:
@@ -43,8 +43,9 @@ Setup
 5. Install the required packages:
    python -m pip install --upgrade pip
    python -m pip install jupyter pandas numpy matplotlib seaborn scikit-learn kaggle
+   python -m pip install -r requirements.txt
 
-   How to Run the Code
+##   How to Run the Code
 1. In the terminal, navigate to the folder containing the notebook and CSV file.
 2. Start Jupyter Notebook:
    jupyter notebook
@@ -54,3 +55,7 @@ Setup
 4. Select the Python kernel for the virtual environment where you installed the packages.
 5. Run the notebook cells in order, from the first cell to the last. Alternatively, use Kernel → Restart Kernel and Run All Cells.
 6. When execution finishes, review the data summaries, charts, regression coefficients, and evaluation metrics displayed in the notebook.
+
+## Expected Output
+
+![alt text](<Screenshot 2026-11-10 131432.png>)
