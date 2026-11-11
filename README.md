@@ -67,3 +67,8 @@ Swings_in_Tempertaure
 PPT - https://drive.google.com/file/d/17u3AGSZSk4m0zjMohYdQ5TTiAlR5d_ge/view?usp=sharing
 
 Video - https://drive.google.com/file/d/1MJ9Ar_YO9IbKnIKYto9xMfB2rcj03h6G/view?usp=sharing
+
+## AI Disclosure
+Google Gemini - Used for coding assistace, Python imoplementation guidance and debugging.
+ChatGPT - Used for preparation, organizing slide content and improving language.
+Gamma AI - Used for designing presentation visuals and layout suggestions.
