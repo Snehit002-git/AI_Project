@@ -70,5 +70,7 @@ Video - https://drive.google.com/file/d/1MJ9Ar_YO9IbKnIKYto9xMfB2rcj03h6G/view?u
 
 ## AI Disclosure
 Google Gemini - Used for coding assistace, Python imoplementation guidance and debugging.
+
 ChatGPT - Used for preparation, organizing slide content and improving language.
+
 Gamma AI - Used for designing presentation visuals and layout suggestions.
