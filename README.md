@@ -29,7 +29,7 @@ Swings_in_Tempertaure
 ├── Requirements.txt                 # All libraries that are used
 ├── Project-Output.png               # Screeenshot of OUTPUT
 └── README.md
-
+```
 
 ## Setup
 1. Install Python 3.10 or newer.
@@ -60,3 +60,9 @@ Swings_in_Tempertaure
 ## Expected Output
 
 ![Project Output](./Project-Output.png)
+
+
+## PPT and Video Link
+
+PPT - https://drive.google.com/file/d/17u3AGSZSk4m0zjMohYdQ5TTiAlR5d_ge/view?usp=sharing
+Video - https://drive.google.com/file/d/1MJ9Ar_YO9IbKnIKYto9xMfB2rcj03h6G/view?usp=sharing
